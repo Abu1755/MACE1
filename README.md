@@ -1,2 +1,2 @@
 # MACE1
-Workshop on git
+Workshop on git1
